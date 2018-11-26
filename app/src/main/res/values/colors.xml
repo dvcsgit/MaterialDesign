@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ActionBar颜色-->
+    <color name="colorPrimary">#3F51B5</color>
+    <!--状态栏颜色-->
+    <color name="colorPrimaryDark">#000F9F</color>
+    <color name="colorAccent">#FF0081</color>
+
+    <color name="color_test">#aaff00</color>
+
+    <color name="bg_cardview">#66aa33</color>
+
+</resources>
